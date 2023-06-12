@@ -1,12 +1,13 @@
 {
   "name": "generator-btp-ui-gene",
-  "version": "1.0.0",
-  "description": "btp ui gene",
-  "homepage": "",
+  "version": "0.0.1",
+  "displayName": "BTP BAS Sample Extension Generator",
+  "description": "Yeoman Generator for BAS Sample Extension Generator",  
+  "homepage": "https://github.com/Aashish28",
   "author": {
     "name": "Ashish Ahire",
     "email": "ashish.89cool@gmail.com",
-    "url": ""
+    "url": "https://github.com/Aashish28"
   },
   "files": [
     "generators",
@@ -90,5 +91,5 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "Aashish28/generator-btp-ui-gene"
+  "repository": "aashish28/generator-btp-ui-gene"
 }
