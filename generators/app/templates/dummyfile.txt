@@ -1,0 +1,2 @@
+Hello BTP Learners
+This is sample text file to show BTP template creation

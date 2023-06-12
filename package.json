@@ -1,18 +1,35 @@
 {
   "name": "generator-btp-ui-gene",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "btp ui gene",
   "homepage": "",
   "author": {
-    "name": "Ashish",
-    "email": "ashishahire.2hire_28@yahoo.com",
+    "name": "Ashish Ahire",
+    "email": "ashish.89cool@gmail.com",
     "url": ""
   },
   "files": [
-    "generators"
+    "generators",
+    "yeoman.png"
   ],
   "main": "generators/index.js",
   "keywords": [
+    "mta",
+    "multitarget",
+    "api",
+    "sdk",
+    "cloudsdk",
+    "uaa",
+    "security",
+    "authentication",
+    "authorization",
+    "odata",
+    "cap",
+    "hana",
+    "anubhavoberoy",
+    "anubhavbtptraining",
+    "dpe",
+    "digitalpartnerengineering",
     "yeoman-generator"
   ],
   "devDependencies": {
@@ -73,6 +90,5 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "Aashish28/generator-btp-ui-gene",
-  "license": "MPL-2.0"
+  "repository": "Aashish28/generator-btp-ui-gene"
 }
